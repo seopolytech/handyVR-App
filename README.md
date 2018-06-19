@@ -1,2 +1,0 @@
-# handyVR-App
-handyVR App
